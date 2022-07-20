@@ -1,6 +1,6 @@
-# Deployment_Maintenance_ApacheSuperset
+# Architecture_And_Implementaion_of_Apache_Superset_for_DataEngineering
 
-https://miro.medium.com/max/533/1*4CuAeuPYr48Yn0-lAWWz3w.jpeg
+![image](https://user-images.githubusercontent.com/28874545/180044681-1d8b003f-a52a-4e8a-8c90-99b8cbfec5a7.png)
 
 # Apache Superset A Visualization Tool
 
