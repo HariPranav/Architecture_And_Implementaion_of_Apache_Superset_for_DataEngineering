@@ -1,5 +1,8 @@
 # Deployment_Maintenance_ApacheSuperset
 
+https://www.akhp.dev/post/apache-superset-a-swiss-army-knife-for-analyzing-data/featured.jpg
+
+
 # Apache Superset A Visualization Tool
 
 'Apache Superset is a modern data exploration and visualization platform. Superset is fast, lightweight, intuitive and loaded with options that make it easy for users of all skill sets to explore and visualize the data. It can handle simple charts to highly detailed geospatial charts'
