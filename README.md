@@ -1,7 +1,6 @@
 # Deployment_Maintenance_ApacheSuperset
 
-https://www.akhp.dev/post/apache-superset-a-swiss-army-knife-for-analyzing-data/featured.jpg
-
+https://miro.medium.com/max/533/1*4CuAeuPYr48Yn0-lAWWz3w.jpeg
 
 # Apache Superset A Visualization Tool
 
