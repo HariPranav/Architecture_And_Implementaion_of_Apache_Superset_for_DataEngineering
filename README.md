@@ -1,4 +1,4 @@
-# Architecture_And_Implementaion_of_Apache_Superset_for_DataEngineering
+# Architecture_And_Implementation_of_Apache_Superset_for_DataEngineering
 
 ![image](https://user-images.githubusercontent.com/28874545/180044681-1d8b003f-a52a-4e8a-8c90-99b8cbfec5a7.png)
 
